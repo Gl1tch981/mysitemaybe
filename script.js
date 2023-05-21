@@ -1,4 +1,3 @@
-alert("Hello World\nThis is a test\n Just click okay");
 
 if (confirm("I will ask you one question now, okay?")) {
   txt = "Great! Let's get started"; response == 1;
