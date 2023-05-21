@@ -5,3 +5,8 @@ body {
 h2 {
   align: center;
 }
+
+.card {
+  border: 10px;
+  border-color: #00;
+}
