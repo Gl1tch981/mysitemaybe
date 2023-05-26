@@ -7,6 +7,7 @@ h2 {
 }
 
 .card {
+  align: center;
   width: 200px;
   height: 190px;
   border-width: 10px;
