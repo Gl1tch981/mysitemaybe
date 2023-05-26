@@ -9,6 +9,7 @@ h2 {
 .card {
   width: 200px;
   height: 190px;
-  border: 10px;
+  border-width: 10px;
+  border-style: dashed;
   border-color: #fff;
 }
